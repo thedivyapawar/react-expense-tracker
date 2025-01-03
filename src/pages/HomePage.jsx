@@ -1,5 +1,5 @@
-import Form from "../Components/Form"
-import Table from "../Components/Table"
+import Form from "../components/Form"
+import Table from "../components/Table"
 
 function HomePage(){
     return(
