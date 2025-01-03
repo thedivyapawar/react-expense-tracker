@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './Components/Navbar'
+import Navbar from './Components/Navbar.jsx'
 import Footer from './Components/Footer'
 import HomePage from './pages/HomePage'
 import ExpensePage from './pages/ExpensePage'
