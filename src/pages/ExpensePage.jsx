@@ -1,4 +1,4 @@
-import Table from "../Components/Table"
+import Table from '../Components/Table.jsx'
 
 function ExpensePage(){
     return(
